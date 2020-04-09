@@ -1,0 +1,10 @@
+[user]
+          name = Migsar Navarro
+         email = migsar.navarro@gmail.com
+[core]
+          excludesfile = /home/migsar/.gitignore_global
+                editor = vim
+              filemode = false
+	autocrlf = false
+[alias]
+          ll = log --oneline
